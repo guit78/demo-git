@@ -1,5 +1,6 @@
 print("ceci est un test!")
 
-print("coucou")
+print("CUICUI")
+
 
 print("git fonctionne très bien")
